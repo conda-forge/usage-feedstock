@@ -1,5 +1,5 @@
 context:
-  version: "6.6.1"
+  version: "6.7.1"
 
 package:
   name: usage
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/jdx/usage/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 8cbb4c9cf294fc83cd22946c19204b82c4685fd61ec8f9372d64bff5ff4d0319
+  sha256: cc0acd11a75634cf1fb110c1d93b9236a9f9187eb083856396d7f9cb2c19ac17
 
 build:
   number: 0
