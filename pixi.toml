@@ -5,7 +5,7 @@
 
 [workspace]
 name = "usage-feedstock"
-version = "2026.9.19"  # conda-smithy version used to generate this file
+version = "2026.9.23"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/usage-feedstock"
 authors = ["@conda-forge/usage"]
 channels = ["conda-forge"]
